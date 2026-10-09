@@ -1,7 +1,9 @@
 <div align="center">
 
-  <h1>Gökdeniz Yıldırım</h1>
-  <p><b>Computer Science & Systems Engineering</b></p>
+  <!-- Animasyonlu Daktilo Yazı Efekti -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=G%C3%B6kdeniz+Y%C1%B1ld%C1%B1r%C1%B1m;Computer+Science+%26+Systems;Java+%2B+Spring+Boot+Developer" alt="Typing SVG" />
+  </a>
 
   <p>
     <a href="https://github.com/gokdenizyildirim020-svg"><b>GitHub</b></a> &nbsp;—&nbsp; 
@@ -14,10 +16,7 @@
 
 ### Focus
 
+```spec
 Languages  :: Java 21, Python, C++, C
-Frameworks :: Spring  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+Frameworks :: Spring
 </p>
