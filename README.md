@@ -14,7 +14,6 @@
 
 ### Focus
 
-```spec
 Languages  :: Java 21, Python, C++, C
 Frameworks :: Spring  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
