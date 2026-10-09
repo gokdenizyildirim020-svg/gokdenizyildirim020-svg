@@ -12,17 +12,10 @@
 
 ---
 
-### Focus
 
-```spec
+
 Languages  :: Java 21, Python, C++, C
-Frameworks :: Spring> *A Spring Boot backend application that turns group task management into an engaging, gamified community experience.*
-
-- **Key Features:**
-  - 🔐 **JWT Authentication & Security:** Role-based authorization (`USER`, `ADMIN`) and secure session resolution.
-  - 🤝 **Community & Invite System:** Group role management (`MANAGER`, `MEMBER`) with custom invite code generation.
-  - 🎮 **Gamification (XP & Karma):** Reward mechanisms for members helping others and closing tasks.
-  - 🤖 **Spring AI Ready:** Automated task decomposition and weekly AI summary generation.
+Frameworks :: Spring  - 🤖 **Spring AI Ready:** Automated task decomposition and weekly AI summary generation.
 - **Tech Stack:** Java 21, Spring Boot 3, Spring Security, JWT, Maven.
 
 ---
