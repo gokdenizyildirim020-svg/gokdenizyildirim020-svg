@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Animasyonlu Daktilo Yazı Efekti -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=G%C3%B6kdeniz+Y%C1%B1ld%C1%B1r%C1%B1m;Computer+Science+%26+Systems;Java+%2B+Spring+Boot+Developer" alt="Typing SVG" />
-  </a>
+  <!-- Minimalist Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,45&height=180&section=header&text=Gokdeniz%20Yildirim&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20%26%20Systems%20Engineering&descSize=16&descAlignY=68" width="100%" />
+
+  <br />
 
   <p>
     <a href="https://github.com/gokdenizyildirim020-svg"><b>GitHub</b></a> &nbsp;—&nbsp; 
