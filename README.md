@@ -1,51 +1,22 @@
-<!-- HEADER BANNER / TYPED EFFECT -->
-<h1 align="center">Hi there, I'm Gökdeniz 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Computer Science & Engineering Student</b> | <b>Backend & Systems Enthusiast</b>
-</p>
+  <h1>Gökdeniz Yıldırım</h1>
+  <p><b>Computer Science & Systems Engineering</b></p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+  <p>
+    <a href="https://github.com/gokdenizyildirim020-svg"><b>GitHub</b></a> &nbsp;—&nbsp; 
+    <a href="mailto:gokdenizyildirim020@gmail.com"><b>Email</b></a>
+  </p>
 
----
-
-### 🚀 About Me
-
-- 🎓 Currently studying **Computer Engineering & Computer Science**.
-- 🛠️ Building **Imece** — a gamified, AI-powered community task management platform built on Spring Boot.
-- 💡 Deeply interested in **Object-Oriented Design**, **Clean Architecture**, and **LLM Integration (Spring AI)**.
-- 🧠 Learning **Rust** and exploring low-level memory management and high-performance backend systems.
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Focus
 
-#### **Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-</p>
-
-#### **Tools & Environments**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-</p>
-
----
-
-### 🌟 Featured Project
-
-#### 📌 [Imece — Gamified Community Task Manager](https://github.com/YOUR_GITHUB_USERNAME/imece)
-> *A Spring Boot backend application that turns group task management into an engaging, gamified community experience.*
+```spec
+Languages  :: Java 21, Python, C++, C
+Frameworks :: Spring> *A Spring Boot backend application that turns group task management into an engaging, gamified community experience.*
 
 - **Key Features:**
   - 🔐 **JWT Authentication & Security:** Role-based authorization (`USER`, `ADMIN`) and secure session resolution.
