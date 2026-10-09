@@ -12,19 +12,11 @@
 
 ---
 
+### Focus
 
-
+```spec
 Languages  :: Java 21, Python, C++, C
-Frameworks :: Spring  - 🤖 **Spring AI Ready:** Automated task decomposition and weekly AI summary generation.
-- **Tech Stack:** Java 21, Spring Boot 3, Spring Security, JWT, Maven.
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+Frameworks :: Spring  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
