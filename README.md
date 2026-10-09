@@ -1,21 +1,18 @@
-<div align="center">
+# Hi 👋, I'm Gökdeniz
 
-  <!-- Minimalist Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,45&height=180&section=header&text=Gokdeniz%20Yildirim&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20%26%20Systems%20Engineering&descSize=16&descAlignY=68" width="100%" />
+### Computer Engineer
 
-  <br />
+- 🔭 I'm currently working on **Java Spring project**
 
-  <p>
-    <a href="https://github.com/gokdenizyildirim020-svg"><b>GitHub</b></a> &nbsp;—&nbsp; 
-    <a href="mailto:gokdenizyildirim020@gmail.com"><b>Email</b></a>
-  </p>
+- 🌱 I'm currently learning **Spring **
 
-</div>
+- 📫 How to reach me **gokdenizyildirim020@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/gokdenizyildirim020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gokdenizyildirim020" height="30" width="40" /></a>
+</p>
 
-### Focus
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
 
-```spec
-Languages  :: Java 21, Python, C++, C
-Frameworks :: Spring
