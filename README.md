@@ -19,4 +19,3 @@
 ```spec
 Languages  :: Java 21, Python, C++, C
 Frameworks :: Spring
-</p>
